@@ -27,10 +27,10 @@ A web designer decides how the website looks and works.
 ## Code Sharing and Learning Websites
 
 ### CodePen	
-CodePen is a place to write and share front-end code. [https://codepen.io/] 
+[https://codepen.io/ CodePen] is a place to write and share front-end code. 
 
 ### GitHub
-GitHub is a code sharing and publishing service, as well as a social networking site for programmers. [https://github.com/]
+[https://github.com/ GitHub} is a code sharing and publishing service, as well as a social networking site for programmers. 
 
 ## Common Terminology 
 
