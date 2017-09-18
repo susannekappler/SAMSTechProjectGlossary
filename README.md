@@ -42,7 +42,11 @@ Cascading Stylesheets, CSS, allow us to set the styling (colors, fonts, overall 
 
 ### ELEMENT
 A HTML element is everything from the start tag to the end tag. 
-* Using the p tag `<p>` as an example `<p>This is a paragraph.</p>` The element has a start tag and an end tag with the **element** content being ‘This is a paragraph’.
+* Using the p tag `<p>` as an example 
+```html
+<p>This is a paragraph.</p>
+```
+The element has a start tag and an end tag with the **element** content being ‘This is a paragraph’.
 
 ### FORK
 Copying a version of code from one user’s account to another. This enables you to take a project that you don’t have write access to and modify it under your own account.
